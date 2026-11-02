@@ -52,7 +52,7 @@ LUFFY/
 - **API Integration**: OpenAI and Gemini API implementations need completion
 - **Reward System**: Parallel processing and validation for reward computation  
 - **FSDP Training**: Model loading and distributed training setup
-- **Data Processing**: Batch dimension operations and tensor reshaping  
+- **Data Processing**: Batch dimension operations and tensor reshaping
 
 ### 📝 Complete TODO List
 
@@ -278,3 +278,4 @@ LUFFY/
 2. Implement the functionality
 3. Test your implementation
 4. Update this README when TODOs are completed
+
